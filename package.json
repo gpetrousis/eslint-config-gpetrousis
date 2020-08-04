@@ -1,6 +1,6 @@
 {
   "name": "@gpetrousis/eslint-config-gpetrousis",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A module that provide my personal .eslintrc configuration and rules as an extensible config.",
   "main": "index.js",
   "scripts": {
