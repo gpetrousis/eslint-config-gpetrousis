@@ -41,7 +41,16 @@ $ npm version major|minor|patch|prerelease
 $ npm publish
 ```
 
-## TODOs
+## Support
+Feel free to open a new issue
+
+## License
+[MIT](LICENCE)
+
+## Status
+This is a live package. The more rules I find, the more I will add.
+
+### TODOs
 - Add style guide
 - Add more rules
 - Add tests
