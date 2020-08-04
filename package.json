@@ -1,22 +1,27 @@
 {
-  "name": "eslint-config-gpetrousis",
+  "name": "@gpetrousis/eslint-config-gpetrousis",
   "version": "1.0.0",
   "description": "A module that provide my personal .eslintrc configuration and rules as an extensible config.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lint": "eslint --ignore-path .gitignore ."
   },
   "author": "Georgios Petrousis",
   "license": "MIT",
-  "repository": "https://github.com/gpetrousis/eslint-config-gpetrousis",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gpetrousis/eslint-config-gpetrousis"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com"
+  },
   "devDependencies": {
     "eslint": "^7.6.0",
-    "eslint-config-airbnb": "^18.2.0",
     "eslint-plugin-import": "^2.22.0"
   },
   "peerDependencies": {
     "eslint": "^7.6.0",
-    "eslint-config-airbnb": "^18.2.0",
     "eslint-plugin-import": "^2.22.0"
   }
 }
