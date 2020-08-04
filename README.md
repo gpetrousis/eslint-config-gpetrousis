@@ -1,7 +1,7 @@
 # eslint-config-gpetrousis
-![GitHub package.json version](https://img.shields.io/github/package-json/v/gpetrousis/foodjammingui.svg)
-![GitHub issues](https://img.shields.io/github/issues-raw/gpetrousis/foodjammingui.svg)
-![GitHub](https://img.shields.io/github/license/gpetrousis/foodjammingui.svg)
+![GitHub package.json version](https://img.shields.io/github/package-json/v/gpetrousis/eslint-config-gpetrousis.svg)
+![GitHub issues](https://img.shields.io/github/issues-raw/gpetrousis/eslint-config-gpetrousis.svg)
+![GitHub](https://img.shields.io/github/license/gpetrousis/eslint-config-gpetrousis.svg)
 
 A module that provide my personal .eslintrc configuration and rules as an extensible config.
 
