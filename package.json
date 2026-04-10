@@ -17,11 +17,11 @@
     "registry": "https://npm.pkg.github.com"
   },
   "devDependencies": {
-    "eslint": "^7.6.0",
+    "eslint": "^7.32.0",
     "eslint-plugin-import": "^2.22.0"
   },
   "peerDependencies": {
-    "eslint": "^7.6.0",
+    "eslint": "^7.32.0",
     "eslint-plugin-import": "^2.22.0"
   }
 }
